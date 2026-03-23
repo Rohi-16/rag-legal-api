@@ -1,4 +1,5 @@
-# ⚖️ DPDP Legal Assistant — RAG-Powered AI Chatbot
+[# ⚖️ DPDP Legal Assistant — RAG-Powered AI Chatbot]
+(https://lovable.dev/projects/7c22fcef-7c42-4197-8ebc-2f343f559a48)
 
 > An AI-powered legal assistant that answers questions about India's **Digital Personal Data Protection (DPDP) Act 2023**, built using Retrieval-Augmented Generation (RAG) with production-grade monitoring.
 
